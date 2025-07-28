@@ -1,0 +1,12 @@
+{
+  "name": "mario-kart-simulator",
+  "version": "1.0.0",
+  "main": "srx/index.js",
+  "scripts": {
+    "test": "echo \"Error: no kart specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Márcio Darlan",
+  "license": "ISC",
+  "description": "Mario Kart Simulator"
+}
