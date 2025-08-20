@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Márcio Darlan",
   "license": "ISC",
-  "description": "Mario Kart Simulator"
+  "description": "Mario Kart Simulator",
+  "directories": {
+    "doc": "docs"
+  }
 }

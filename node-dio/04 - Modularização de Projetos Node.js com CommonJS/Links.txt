@@ -1,0 +1,3 @@
+https://github.com/digitalinnovationone/formacao-nodejs/tree/main/04-commonjs-modules
+
+https://nodejs.org/api/modules.html
